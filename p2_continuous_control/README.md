@@ -1,6 +1,18 @@
-## Continuous Control
+[//]: # (Image References)
+
+[image2]: ./images/joint_arm.gif "Trained Agent"
+
+# Project 1: Continuous Control
+
+## Introduction
+
+For this project, I am training a double-jointed arm to move to the target locations.
+
+![Trained Agent][image2]
+
 
 ## Project Details:
+
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. 
 
 
