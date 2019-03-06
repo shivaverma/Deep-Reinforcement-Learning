@@ -1,14 +1,12 @@
 [//]: # (Image References)
 
-[image1]: p1_navigation/images/banana.gif "Trained Agent"
-
 # Project 1: Navigation
 
 ### Introduction
 
 For this project, I am training an agent to navigate (and collect bananas!) in a large, square world.  
 
-![Trained Agent][image1]
+<img src=p1_navigation/images/banana.gif width="450">
 
 - A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
@@ -22,15 +20,13 @@ For this project, I am training an agent to navigate (and collect bananas!) in a
 
 [//]: # (Image References)
 
-[image2]: p2_continuous_control/images/joint_arm.gif "Trained Agent"
-
 # Project 2: Continuous Control
 
 ## Introduction
 
 For this project, I am training a double-jointed arm to move to the target locations.
 
-![Trained Agent][image2]
+<img src=p2_continuous_control/images/joint_arm.gif width="550">
 
 - A reward of +0.1 is provided for each step that the agent's hand is in the goal location. 
 - Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
@@ -44,15 +40,13 @@ For this project, there are two separate versions of the Unity environment:
 
 [//]: # (Image References)
 
-[image3]: p3_collab-competition/images/tennis.gif "Trained Agent"
-
 # Project 3: Multi Agent Control
 
 ## Introduction:
 
 In this environment, I am training two agents to control rackets to bounce a ball over a net.
 
-![Trained Agent][image3]
+<img src=p3_collab-competition/images/tennis.gif width="500">
 
 - If an agent hits the ball over the net, it receives a reward of +0.1.
 - If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.
